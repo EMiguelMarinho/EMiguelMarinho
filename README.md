@@ -3,7 +3,7 @@
 Tenho 20 anos, moro na Bahia e sou apaixonado pelo ambiente de tecnologia. Adoro acompanhar o contexto tecnológico como um todo, tendências e lançamentos globais sobre programas, softwares, aparelhos, jogos, IA, etc. Tendo esse gosto desde de cedo, quando fui apresentado ao ambiente de programação, me senti como se tivesse chegado em casa, num ambiente desconhecido mas familiar rsrs.
 
 
-Falando sobre minha construção como profissional, estou no 2° semestre de Engenharia de Software pela Uniasselvi, com a proposta de me formar no final de 2025. Estudo/ Estudei cursos por fora na Udemy, DevMedia, Staart, Courcera, além de dezenas de cursos gratuitos no Youtube como o Gustavo Guanabara e Matheus Battisti. Atualmente, meu foco de estudo é o front-end, mas pretendo atuar como fullstack, além de trabalhar na aréa da minha formação: Engenheiro de Software (trabalhando com desenvolvimento, arquitetura, gerenciamento e testes de softwares). 
+Falando sobre minha construção como profissional, estou no 2° semestre de Engenharia de Software pela Uniasselvi, com a proposta de me formar no final de 2025. Estudo/ Estudei cursos por fora na Udemy, DevMedia, Staart, além de dezenas de cursos gratuitos no Youtube como o Gustavo Guanabara e Matheus Battisti. Atualmente, meu foco de estudo é o front-end, mas pretendo atuar como fullstack, além de trabalhar na aréa da minha formação: Engenheiro de Software (trabalhando com desenvolvimento, arquitetura, gerenciamento e testes de softwares). 
 
 ----
 
